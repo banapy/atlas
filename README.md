@@ -1,2 +1,2 @@
 # atlas
-GIS toolkit
+A toolset for creating the universe
